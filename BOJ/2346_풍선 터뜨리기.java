@@ -11,7 +11,6 @@ public class Main {
         for(int i=0; i<n; i++){
             deque.add(new Node(i+1, sc.nextInt()));
         }
-d
         int[] result = new int[n];
         int readPaper = 0, idx = 0;
 
